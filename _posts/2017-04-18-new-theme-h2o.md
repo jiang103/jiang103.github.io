@@ -2,7 +2,7 @@
 layout: post
 title: '个人介绍'
 subtitle: '我的个人经历'
-date: 2017-04-18
+date: 2023-09-06
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: 经历 爱好
