@@ -42,7 +42,7 @@ tags: 经历 爱好
 
 使用阿里的图标管理平台[Iconfont](http://iconfont.cn/)整理了一套<strike>墙内外</strike>常用的社交图标，包括微博、知乎、掘金、简书、Github等十多个网站，鼠标悬停会显示该站的主题色。
 
-(https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/profile.jpg))
+![](https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/profile.jpg)
 
 ### 前后文导航
 
