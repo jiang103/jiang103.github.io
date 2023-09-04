@@ -14,7 +14,7 @@ tags: 经历 爱好
 
 [源码及使用文档 →](https://github.com/kaeyleo/jekyll-theme-H2O)
 
-![](screenshot/profile.jpg)
+![]([screenshot/profile.jpg](https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/profile.jpg))
 
 新主题名叫"H2O"，基于Jekyll 3.0.x（使用```gem update jekyll```升级Jekyll），Markdown的代码高亮不再支持pygments转而使用rouge，咱已经默认配置了 ```highlighter: rouge``` 。用到的技术栈也很简单：引入jQuery类库，使用Sass编写样式，使用Gulp来编译Sass、合并压缩css、js，开源在[Github](https://github.com/kaeyleo/jekyll-theme-H2O)上，稍作配置即可用于你的Jekyll博客上。
 
