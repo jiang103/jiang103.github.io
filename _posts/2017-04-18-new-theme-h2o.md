@@ -15,4 +15,4 @@ tags: 经历 爱好
 爱好上我喜欢美食，来福州2年，店倒是吃了不少。也比较喜欢下象棋（天天象棋业4）同时我也喜欢旅行。
 ![](https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/27ec5cd95147e5e5eb2d2b59d2ac604.jpg)
 在博物馆
-i[]()
+i[](https://github.com/jiang103/jiang103.github.io/blob/main/assets/img/064c5a1fcda5bcd2302464b50359143.jpg)
