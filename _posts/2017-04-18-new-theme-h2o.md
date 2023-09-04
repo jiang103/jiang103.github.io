@@ -14,7 +14,7 @@ tags: 经历 爱好
 
 [源码及使用文档 →](https://github.com/kaeyleo/jekyll-theme-H2O)
 
-![](https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/profile.jpg))
+![](https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/profile.jpg)
 
 新主题名叫"H2O"，基于Jekyll 3.0.x（使用```gem update jekyll```升级Jekyll），Markdown的代码高亮不再支持pygments转而使用rouge，咱已经默认配置了 ```highlighter: rouge``` 。用到的技术栈也很简单：引入jQuery类库，使用Sass编写样式，使用Gulp来编译Sass、合并压缩css、js，开源在[Github](https://github.com/kaeyleo/jekyll-theme-H2O)上，稍作配置即可用于你的Jekyll博客上。
 
@@ -42,7 +42,7 @@ tags: 经历 爱好
 
 使用阿里的图标管理平台[Iconfont](http://iconfont.cn/)整理了一套<strike>墙内外</strike>常用的社交图标，包括微博、知乎、掘金、简书、Github等十多个网站，鼠标悬停会显示该站的主题色。
 
-![social iconfont](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-snstext.jpg)
+(https://github.com/jiang103/jiang103.github.io/blob/main/screenshot/profile.jpg))
 
 ### 前后文导航
 
